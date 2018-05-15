@@ -44,6 +44,7 @@
 * ETH
 * ERC20
 * BTC
+* NEO
 * IPFS
 
 
